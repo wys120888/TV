@@ -1,0 +1,148 @@
+
+{
+  "lives": [
+    {
+      "name": "20240224本人维护",
+      "url": "https://od.lk/d/NDlfMzM2OTY5Njhf/20240224.txt",
+      "epg": "https://epg.112114.xyz/?ch={name}&date={date}",
+      "logo": "https://epg.112114.xyz/logo/{name}.png",
+      "playerType": 0
+    },
+    {
+      "name": "Live8023/TV",
+      "url": "https://gitee.com/Live8023/TV/raw/master/ipv6",
+      "epg": "https://epg.112114.xyz/?ch={name}&date={date}",
+      "logo": "https://epg.112114.xyz/logo/{name}.png",
+      "playerType": 1
+    },
+   {
+      "name": "看电视",
+      "url": "http://8.138.7.223/live.txt",
+      "epg": "https://epg.112114.xyz/?ch={name}&date={date}",
+      "logo": "https://epg.112114.xyz/logo/{name}.png",
+      "playerType": 2
+    },
+    {
+      "name": "【q309972108/tv】大佬",
+      "url": "https://ghp.ci/https://raw.githubusercontent.com/q309972108/tv/master/tv/zb.json",
+      "epg": "https://epg.112114.xyz/?ch={name}&date={date}",
+      "logo": "https://epg.112114.xyz/logo/{name}.png",
+      "playerType": 3
+    },
+    {
+      "name": "【 1120-诚信/TV】",
+      "url": "https://gitee.com/qqyywb/tv/raw/master/TV.json",
+      "epg": "https://epg.112114.xyz/?ch={name}&date={date}",
+      "logo": "https://epg.112114.xyz/logo/{name}.png",
+      "playerType": 4
+    },
+    {
+      "name": "【Admin/tv】",
+      "url": "https://gitee.com/hh_70_0/tv/raw/master/22.txt",
+      "epg": "https://epg.112114.xyz/?ch={name}&date={date}",
+      "logo": "https://epg.112114.xyz/logo/{name}.png",
+      "playerType": 5
+    },
+    {
+      "name": "zhiwm121/tv",
+      "url": "https://gitee.com/zhiwm121/tv/raw/master/20241116.txt",
+      "epg": "https://epg.112114.xyz/?ch={name}&date={date}",
+      "logo": "https://epg.112114.xyz/logo/{name}.png",
+      "playerType": 6
+    },
+    {
+      "name": "iuse63/tvmtv",
+      "url": "https://gitee.com/iuse63/tv/raw/main/tvlist/MV.txt",
+      "epg": "https://epg.112114.xyz/?ch={name}&date={date}",
+      "logo": "https://epg.112114.xyz/logo/{name}.png",
+      "playerType": 7
+    },
+    {
+      "name": "117.72.68",
+      "url": "http://117.72.68.25:9230/latest.txt",
+      "epg": "https://epg.112114.xyz/?ch={name}&date={date}",
+      "logo": "https://epg.112114.xyz/logo/{name}.png",
+      "playerType": 8
+    },
+    {
+      "name": "看电视",
+      "url": "http://8.138.7.223/live.txt",
+      "epg": "https://epg.112114.xyz/?ch={name}&date={date}",
+      "logo": "https://epg.112114.xyz/logo/{name}.png",
+      "playerType": 9
+    },
+    {
+      "name": "每日自动更新一次",
+      "url": "https://ghproxy.net/https://raw.githubusercontent.com/kimwang1978/collect-tv-txt/main/merged_output.txt",
+      "epg": "https://epg.112114.xyz/?ch={name}&date={date}",
+      "logo": "https://epg.112114.xyz/logo/{name}.png",
+      "playerType": 10
+    },
+    {
+      "name": "jiuer9999/tvlistb",
+      "url": "https://gitee.com/jiuer9999/tvlist/raw/main/live.txt",
+      "epg": "https://epg.112114.xyz/?ch={name}&date={date}",
+      "logo": "https://epg.112114.xyz/logo/{name}.png",
+      "playerType": 11
+    },
+    {
+      "name": "202411-18-yuhuahx",
+      "url": "http://yuhuahx.com/dsj66.txt",
+      "epg": "https://epg.112114.xyz/?ch={name}&date={date}",
+      "logo": "https://epg.112114.xyz/logo/{name}.png",
+      "playerType": 12
+    },
+    {
+      "name": "kakaxi-1/IPTV",
+      "url": "https://live.kakaxi-1.ink/ipv6.m3u",
+      "epg": "https://epg.112114.xyz/?ch={name}&date={date}",
+      "logo": "https://epg.112114.xyz/logo/{name}.png",
+      "playerType": 13
+    },
+    {
+      "name": "202411-18-aktv",
+      "url": "https://aktv.top/live.txt",
+      "epg": "https://epg.112114.xyz/?ch={name}&date={date}",
+      "logo": "https://epg.112114.xyz/logo/{name}.png",
+      "playerType": 14
+    },
+    {
+      "name": "tim6853/TIM TV",
+      "url": "https://gitee.com/tim6853/tim-tv/raw/master/Timtv3.m3u",
+      "epg": "https://epg.112114.xyz/?ch={name}&date={date}",
+      "logo": "https://epg.112114.xyz/logo/{name}.png",
+      "playerType": 15
+    },
+    {
+      "name": "看电视11",
+      "url": "http://tvbox6.com/tv.php?key=2785",
+      "epg": "https://epg.112114.xyz/?ch={name}&date={date}",
+      "logo": "https://epg.112114.xyz/logo/{name}.png",
+      "playerType": 16
+    },
+    {
+      "name": "limaolin/tv",
+      "url": "https://gitee.com/limaolin1971/tv/raw/master/tv.txt",
+      "epg": "https://epg.112114.xyz/?ch={name}&date={date}",
+      "logo": "https://epg.112114.xyz/logo/{name}.png",
+      "playerType": 17
+    },
+    {
+      "name": "jiuer9999/tvlist",
+      "url": "https://gitee.com/jiuer9999/tvlist/raw/main/live.txt",
+      "epg": "https://epg.112114.xyz/?ch={name}&date={date}",
+      "logo": "https://epg.112114.xyz/logo/{name}.png",
+      "playerType": 18
+    },
+    {
+      "name": "202411-18-ASGARDTH0R/TV",
+      "url": "https://gitee.com/asgardth0r/tv/raw/master/%E7%9B%B4%E6%92%AD.txt",
+      "epg": "https://epg.112114.xyz/?ch={name}&date={date}",
+      "logo": "https://epg.112114.xyz/logo/{name}.png",
+      "playerType": 19
+    }
+  ]
+}
+
+
+	
